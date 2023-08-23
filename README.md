@@ -34,4 +34,3 @@ For detailed documentation on the Juicity protocol and its features, please refe
 If you find the Juicity project useful, you can show your support by making a donation through the [donation link](https://github.com/samsesh/donate/). Your contribution will be greatly appreciated.
 
 Thank you for choosing Juicity!
-

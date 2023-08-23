@@ -12,7 +12,7 @@ print_with_delay() {
 }
 
 # Introduction animation
-intro_text="juicity-installer by DEATHLINE | nameless ghouls"
+intro_text="code by iaghapour"
 delay=0.1
 
 echo ""
